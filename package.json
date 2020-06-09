@@ -1,0 +1,19 @@
+{
+  "name": "ssr",
+  "version": "1.0.0",
+  "description": "\"Hello Word\" with Server Side Render",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Edmilson Chelene",
+  "license": "ISC",
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "next": "^9.4.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
